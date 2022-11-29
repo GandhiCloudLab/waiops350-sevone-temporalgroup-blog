@@ -9,7 +9,7 @@ This document explains how to download SevOne event history, convert them into W
 
 The script is available in [scripts](./scripts) folder.
 
-![SevOne](../images/img-02-history.png)
+![SevOne](./images/img-02-history.png)
 
 
 ## 1. Update Properties
